@@ -1,0 +1,8 @@
+{
+  "name": "npm-packing-test",
+  "version": "1.0.2",
+  "description": "This this npm packaging change",
+  "main": "index.js",
+  "author": "lee zhang",
+  "license": "ISC"
+}
